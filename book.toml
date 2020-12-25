@@ -12,3 +12,4 @@ create-missing = true
 theme = "src/theme"
 git-repository-url = "https://github.com/MattPerry1216/wiki"
 curly-quotes = true # Shoutout to pratical typography
+additional-css = ["src/theme/fonts.css"]

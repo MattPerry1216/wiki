@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Frank+Ruhl+Libre');
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans');
+/* @import url('https://fonts.googleapis.com/css?family=JetBrain+Mono'); */
+
+body, li p {
+	font-family: 'Frank Ruhl Libre', serif;
+	text-align: justify;
+	font-size: 20px;
+}
+
+h1,h2,h3,h4,h5,h6,header,header.a,.menu-title {
+	/* text-transform: lowercase; */
+	color: #0a3055;
+	font-family: 'Alegreya Sans', sans-serif;
+}
+
