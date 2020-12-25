@@ -8,6 +8,10 @@ body, li p {
 	font-size: 20px;
 }
 
+.sidebar {
+	font-family: 'Frank Ruhl Libre', serif;
+}
+
 h1,h2,h3,h4,h5,h6,header,header.a,.menu-title {
 	/* text-transform: lowercase; */
 	color: #0a3055;
