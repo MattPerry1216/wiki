@@ -94,3 +94,7 @@ While rare, Japanese teas can be fermented.
 ## Final Thoughts
 
 Tea is hard to categorize. I have not even explore differences in growing region, plant breeding, age, or herbal "teas". I hope to keep this paged updated. 
+
+# Links
+
+- [Steepster](https://steepster.com/) Is social networking tea worth it?
