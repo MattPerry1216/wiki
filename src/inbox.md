@@ -29,3 +29,6 @@ close your eyes, bare links
 - https://github.com/KasperZutterman/Second-Brain
 - https://github.com/MaggieAppleton/digital-gardeners
 
+## Self-tracking
+
+https://measuredme.com/post/automating-meal-planning-progress-update/
