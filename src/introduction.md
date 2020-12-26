@@ -1,3 +1,3 @@
 # Introduction
 
-Welcome to my personal wiki, exo-brain, or knowledge base.
+Welcome to my personal wiki, exobrain, brain dump, knowledge base, knowledge repository, public notes, digital garden, or second brain.
