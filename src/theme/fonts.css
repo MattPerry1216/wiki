@@ -14,6 +14,7 @@ body, li p {
 
 h1,h2,h3,h4,h5,h6,header,header.a,.menu-title {
 	/* text-transform: lowercase; */
+	margin-top: 1em;
 	color: #0a3055;
 	font-family: 'Alegreya Sans', sans-serif;
 }
