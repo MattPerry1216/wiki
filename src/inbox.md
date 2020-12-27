@@ -32,3 +32,11 @@ close your eyes, bare links
 ## Self-tracking
 
 https://measuredme.com/post/automating-meal-planning-progress-update/
+
+## MOOC Lists
+
+- https://github.com/ossu/computer-science
+- https://htdp.org/2003-09-26/
+- https://teachyourselfcs.com/
+- https://github.com/P1xt/p1xt-guides
+- https://functionalcs.github.io/curriculum/
