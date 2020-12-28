@@ -40,3 +40,6 @@ https://measuredme.com/post/automating-meal-planning-progress-update/
 - https://teachyourselfcs.com/
 - https://github.com/P1xt/p1xt-guides
 - https://functionalcs.github.io/curriculum/
+
+## Books
+- http://sarabander.github.io/sicp/
