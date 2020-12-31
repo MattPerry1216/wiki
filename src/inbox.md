@@ -28,6 +28,7 @@ close your eyes, bare links
 
 - https://github.com/KasperZutterman/Second-Brain
 - https://github.com/MaggieAppleton/digital-gardeners
+- https://github.com/RichardLitt/meta-knowledge
 
 ## Self-tracking
 
