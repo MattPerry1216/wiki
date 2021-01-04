@@ -8,6 +8,8 @@
 [Tea](./tea.md)
 [MOOCs](./mooc.md)
 [Blogs](./blogs.md)
+[Languages](./languages.md)
+[Bad Ideas](./speculation.md)
 # Self Tracking
 
 - [Want to Track](./st-wanted.md)

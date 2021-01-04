@@ -91,9 +91,26 @@ Pu'er is formed into pucks or bricks.
 
 While rare, Japanese teas can be fermented.
 
+## Herbal "Tea"
+
+### A short list of tisanes.
+
+- Chamomile
+- Peppermint
+- Rosehip
+- Rooibos
+- Ginger
+- Cinnamon
+- Lemongrass
+- Tulsi
+- Rosemary
+- Barley
+- Oat
+- Eucalyptus
+
 ## Final Thoughts
 
-Tea is hard to categorize. I have not even explore differences in growing region, plant breeding, age, or herbal "teas". I hope to keep this paged updated. 
+Tea is hard to categorize. I have not even explore differences in growing region, plant breeding, or age. I hope to keep this paged updated. 
 
 # Links
 

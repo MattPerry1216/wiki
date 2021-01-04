@@ -28,3 +28,15 @@ Links added here by a [script](https://gist.github.com/MattPerry1216/a3063465052
 
 <https://functionalcs.github.io/curriculum/>
 
+<https://www.pine64.org/pinetime/>
+
+<https://github.com/nim-lang/Nim>
+
+<https://jeffhuang.com/best_paper_awards/>
+
+<https://learnvimscriptthehardway.stevelosh.com/>
+
+<https://canarystudent.com/>
+
+<https://learnxinyminutes.com/>
+
