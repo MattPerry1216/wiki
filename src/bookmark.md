@@ -40,3 +40,7 @@ Links added here by a [script](https://gist.github.com/MattPerry1216/a3063465052
 
 <https://learnxinyminutes.com/>
 
+<https://www.youtube.com/watch?v=443UNeGrFoM>
+
+<https://www.youtube.com/watch?v=ieERUEhs910>
+
