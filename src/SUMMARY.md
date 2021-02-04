@@ -10,6 +10,7 @@
 [Blogs](./blogs.md)
 [Languages](./languages.md)
 [Bad Ideas](./speculation.md)
+[Niches](./niche.md)
 # Self Tracking
 
 - [Want to Track](./st-wanted.md)

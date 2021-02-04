@@ -45,3 +45,9 @@ Links added here by a [script](https://gist.github.com/MattPerry1216/a3063465052
 <https://www.youtube.com/watch?v=ieERUEhs910>
 
 <https://cs.brown.edu/~sk/Publications/Papers/Published/fffk-htdp-vs-sicp-journal/paper.pdf>
+<https://aquadzn.github.io/learn-x-by-doing-y/>
+
+<https://www.youtube.com/watch?v=M_vmZhdNKS4>
+
+<https://atthis.link/blog/2021/rss.html>
+
