@@ -51,3 +51,13 @@ Links added here by a [script](https://gist.github.com/MattPerry1216/a3063465052
 
 <https://atthis.link/blog/2021/rss.html>
 
+<https://unbiastock.com/reddit.php>
+
+<https://www.youtube.com/watch?v=fvgmZoORynQ&list=PLEDF53DC200BAF48D>
+
+<https://www.manning.com/catalog>
+
+<https://www.cs.cmu.edu/~15131/f17/>
+
+<https://research.swtch.com/acme>
+
